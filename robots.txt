@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /kitbo-site/engineering/
+Disallow: /kitbo-site/protected/
